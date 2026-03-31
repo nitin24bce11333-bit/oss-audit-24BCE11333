@@ -1,6 +1,6 @@
 # 🐧 Open Source Audit — Linux Kernel
-# Name: Himanshu Singh
-# Registration No: 24BCE10409
+# Name: Nitin Kumar
+# Registration No: 24BCE11333
 
 A capstone project exploring the philosophy, architecture, and ecosystem of the **Linux Kernel** as part of an Open Source Software course.
 
@@ -139,8 +139,8 @@ Displays system-level information:
 
 ## 📚 Author
 
-**Himanshu Singh**
-Registration Number: 24BCE10409
+**Nitin Kumar**
+Registration Number: 24BCE11333
 Course: Open Source Software
 
 
